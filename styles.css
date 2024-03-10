@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana;
+}
+
+h1 {
+    text-align: center;
+}
+
+#authors-nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+#authors-nav li {
+    display: inline-block;
+    padding: 10px;
+}
+
+#authors-nav a {
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#authors-nav a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
